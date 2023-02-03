@@ -4,8 +4,8 @@
     Olá! Sou Elizeu Crisóstomo
 </h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gheysiell-santana-33b021210/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gheysiell.santanna/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizeucrisostomo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elizeu.crisostomo/)
 
 Gosto de conhecer novas tecnologias e de propor soluções para desafios por meio da programação, entendendo toda a importância de validar a experiência do usuário desde o descobrimento do produto até a entrega ao cliente.
 
